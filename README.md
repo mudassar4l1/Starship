@@ -12,9 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Mudassar done all the designing and WebGl.
+Noman done all the code and layed out the assets and scense.
+Noman further done the code and Mudassar edited it.
 ## Header 2
+We couldnt get the UI done.
 ### Header 3
-
+for the Final version task we have to conduct are
 - Bulleted
 - List
 
@@ -35,3 +39,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
