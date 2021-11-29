@@ -12,18 +12,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+B00132795 Mudassar Ali | B00133433 Noman Masood.
 Mudassar done all the designing and WebGl.
 Noman done all the code and layed out the assets and scense.
 Noman further done the code and Mudassar edited it.
 ## Header 2
 We couldnt get the UI done.
 ### Header 3
-for the Final version task we have to conduct are
-- Bulleted
-- List
+for the Final version task we have to conduct the following tasks:
 
-1. Numbered
-2. List
+1. UI
+2. Make the objects come down.
+3. Game end.
+4. Sound and effects.
+5. Score meter.
 
 **Bold** and _Italic_ and `Code` text
 
